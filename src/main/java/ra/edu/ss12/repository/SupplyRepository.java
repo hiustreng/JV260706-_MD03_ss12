@@ -1,8 +1,9 @@
-package ra.edu.ss11.repository;
+package ra.edu.ss12.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
-import ra.edu.ss11.model.Supply;
+import ra.edu.ss12.model.Supply;
+
 import java.util.List;
 import java.util.Optional;
 

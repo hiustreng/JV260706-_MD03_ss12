@@ -1,4 +1,4 @@
-package ra.edu.ss11.dto;
+package ra.edu.ss12.dto;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.*;

@@ -1,13 +1,13 @@
-package ra.edu.ss11.controller;
+package ra.edu.ss12.controller;
 
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import ra.edu.ss11.dto.*;
-import ra.edu.ss11.model.Supply;
-import ra.edu.ss11.service.SupplyService;
+import ra.edu.ss12.dto.*;
+import ra.edu.ss12.model.Supply;
+import ra.edu.ss12.service.SupplyService;
 
 import java.util.List;
 

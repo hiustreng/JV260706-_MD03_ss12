@@ -1,7 +1,8 @@
-package ra.edu.ss11.service;
+package ra.edu.ss12.service;
 
-import ra.edu.ss11.dto.*;
-import ra.edu.ss11.model.Supply;
+import ra.edu.ss12.dto.*;
+import ra.edu.ss12.model.Supply;
+
 import java.util.List;
 
 public interface SupplyService {

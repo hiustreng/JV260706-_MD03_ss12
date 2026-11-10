@@ -1,4 +1,4 @@
-package ra.edu.ss11.model;
+package ra.edu.ss12.model;
 
 import jakarta.persistence.*;
 import lombok.*;

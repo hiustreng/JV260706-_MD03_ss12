@@ -1,4 +1,4 @@
-package ra.edu.ss11.dto;
+package ra.edu.ss12.dto;
 
 import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotNull;
